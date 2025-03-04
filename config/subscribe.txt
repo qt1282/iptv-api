@@ -15,3 +15,11 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://epg.pw/test_channels_taiwan.m3u
+https://bit.ly/suxuang
+https://tv.iill.top/m3u/Gather
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u
+https://aktv.top/live.m3u
+https://www.mytvsuper.com.mp/m3u/ofiii.m3u
